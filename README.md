@@ -2,7 +2,7 @@
 
 About: 
 - This is a repo where you will find the Python code for automating e-mail sending via a an excel spreadsheet (MUST BE A CSV FILE).
-- This code uses smtplib and pandas libraries of python which you can install by using the following commands.
+- This code uses smtplib library of python which you can install by using the following commands.
 
 Requirements:
 - smtplib : pip install python-smtplib
