@@ -1,4 +1,4 @@
-# Automated-email-script
+# Automated-Email-Script
 
 About: 
 - This is a repo where you will find the Python code for automating e-mail sending via a an excel spreadsheet (MUST BE A CSV FILE).
